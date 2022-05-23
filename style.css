@@ -1,7 +1,7 @@
   body {
          background-color: #E3FDFD;
       }
-  .headline hr{      
+  hr.headline{      
         border-color: black;        
         width: 30%;
         border-width: 5px;
