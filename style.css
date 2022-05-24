@@ -6,3 +6,7 @@
         width: 30%;
         border-width: 5px;
     }
+ hr{
+   TopBorder-style : dotted;
+     Border-style : none;
+    }
